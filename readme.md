@@ -28,9 +28,14 @@ https://CryptoQuant.com
 https://Glassnode.com
 
 
-# Newsletters
+# Newsletters/Podcasts:
 https://newsletter.banklesshq.com/
 
+https://uncommoncore.co/
+
+https://uponly.tv/
+
+https://www.whatbitcoindid.com/podcast/
 
 # Investment theses:
 SinoGlobal: https://github.com/sinoglobalcap/investment-theses/tree/main/english
@@ -40,7 +45,7 @@ SinoGlobal: https://github.com/sinoglobalcap/investment-theses/tree/main/english
 
 https://www.metarational.net/lens/crypto_journalists
 
-# Basics 
+# Basics:
 Blockchain Explorer
 Bitcoin: https://bitinfocharts.com/bitcoin/explorer/
 
