@@ -16,7 +16,9 @@ Crypto Theses for 2021: https://messari.io/pdf/messari-report-crypto-theses-for-
 
 Rollups: https://www.mechanism.capital/rollups-introduction/
 
+Frontrunning on Ethereum: https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff
 
+Wrecking sandwich traders for fun and profit: https://github.com/Defi-Cartel/salmonella
 
 # Quantitative:
 Dune.xyz
@@ -32,7 +34,7 @@ https://newsletter.banklesshq.com/
 SinoGlobal: https://github.com/sinoglobalcap/investment-theses/tree/main/english
 
 
-Twitter accounts:
+# Twitter accounts:
 
 https://www.metarational.net/lens/crypto_journalists
 
@@ -53,7 +55,7 @@ https://ethgasstation.info/
 Wallet trackers:
 Show balances of exchanges, whales, OTC desks etc.
 
-Glassnode (paid):
+Glassnode:
 https://studio.glassnode.com/metrics?a=BTC&category=Exchanges&m=distribution.ExchangeNetPositionChange
 https://studio.glassnode.com/metrics?a=BTC&category=OTC%20Desks&m=distribution.BalanceOtcDesks
 
@@ -61,7 +63,7 @@ Cryptoquant.
 https://cryptoquant.com/overview/btc-exchange-flows
 https://cryptoquant.com/overview/btc-bank-flows
 
-##Mid Frequency
+# Mid Frequency
 
 HODL Waves: https://academy.glassnode.com/supply/hodl/hodl-waves
 Dormant coins: https://stats.buybitcoinworldwide.com/dormant-coins/
@@ -72,8 +74,9 @@ and https://community.santiment.net/t/santiment-dashboards-metrics-overview/905
 
 Block trades for legged structures
 https://www.paradigm.co/
-# Options data: https://skew.com/
-
+# Options data: 
+https://skew.com/
+https://www.delta.exchange/data-analytics/d/ZJ2kOAwMz/options-analytics
 
   
  Data feed through API and nothing more:
@@ -81,3 +84,15 @@ https://www.paradigm.co/
    
 SQL Queries/analytics DEFI
 Dune Analytics, Flipside Crypto
+
+# Classics/philosophical:
+
+Nick Szabo: Social Scalability http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html?m=1
+
+An Honest Account of Fiat Money: https://medium.com/@hasufly/why-bitcoin-3fdee2328759
+
+https://nakamotoinstitute.org/literature/
+
+Fat Protocols: https://www.usv.com/writing/2016/08/fat-protocols/
+
+On Medium-of-Exchange Token Valuations: https://vitalik.ca/general/2017/10/17/moe.html
