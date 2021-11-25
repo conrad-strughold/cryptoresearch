@@ -115,4 +115,7 @@ On Medium-of-Exchange Token Valuations: https://vitalik.ca/general/2017/10/17/mo
 
 # OPSEC
 Bitcoin Hardware Wallets: https://www.lopp.net/bitcoin-information/security.html
+
+Sim Swaps: https://www.gemini.com/cryptopedia/sim-swap-attack-preventing-crypto-fraud
+
 Laser fault injection: https://donjon.ledger.com/coldcard-pin-code/
