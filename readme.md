@@ -74,7 +74,7 @@ https://cryptoquant.com/overview/btc-exchange-flows
 
 https://cryptoquant.com/overview/btc-bank-flows
 
-# Mid Frequency
+# Mid-Frequency:
 
 HODL Waves: https://academy.glassnode.com/supply/hodl/hodl-waves
 
@@ -118,7 +118,7 @@ On Medium-of-Exchange Token Valuations: https://vitalik.ca/general/2017/10/17/mo
 
 
 
-# OPSEC
+# OPSEC:
 Bitcoin Hardware Wallets: https://www.lopp.net/bitcoin-information/security.html
 
 Sim Swaps: https://www.gemini.com/cryptopedia/sim-swap-attack-preventing-crypto-fraud
