@@ -43,7 +43,9 @@ https://www.metarational.net/lens/crypto_journalists
 # Basics 
 Blockchain Explorer
 Bitcoin: https://bitinfocharts.com/bitcoin/explorer/
+
 https://www.blockchain.com/explorer?utm_campaign=expnav_explorer
+
 https://blockstream.info/
 
 Ethereum: https://etherscan.io/
@@ -59,25 +61,33 @@ Show balances of exchanges, whales, OTC desks etc.
 
 Glassnode:
 https://studio.glassnode.com/metrics?a=BTC&category=Exchanges&m=distribution.ExchangeNetPositionChange
+
 https://studio.glassnode.com/metrics?a=BTC&category=OTC%20Desks&m=distribution.BalanceOtcDesks
 
 Cryptoquant.
 https://cryptoquant.com/overview/btc-exchange-flows
+
 https://cryptoquant.com/overview/btc-bank-flows
 
 # Mid Frequency
 
 HODL Waves: https://academy.glassnode.com/supply/hodl/hodl-waves
+
 Dormant coins: https://stats.buybitcoinworldwide.com/dormant-coins/
+
 Never-Look-Back price: https://stats.buybitcoinworldwide.com/never-look-back-price/
-More: https://docs.glassnode.com/api/indicators
-and https://community.santiment.net/t/santiment-dashboards-metrics-overview/905
+
+https://docs.glassnode.com/api/indicators
+
+https://community.santiment.net/t/santiment-dashboards-metrics-overview/905
 
 
 Block trades for legged structures
 https://www.paradigm.co/
+
 # Options data: 
 https://skew.com/
+
 https://www.delta.exchange/data-analytics/d/ZJ2kOAwMz/options-analytics
 
   
