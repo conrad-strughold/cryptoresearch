@@ -21,9 +21,11 @@ Frontrunning on Ethereum: https://medium.com/@danrobinson/ethereum-is-a-dark-for
 Wrecking sandwich traders for fun and profit: https://github.com/Defi-Cartel/salmonella
 
 # Quantitative:
-Dune.xyz
-CryptoQuant.com
-Glassnode.com
+https://Dune.xyz
+
+https://CryptoQuant.com
+
+https://Glassnode.com
 
 
 # Newsletters
