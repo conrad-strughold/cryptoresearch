@@ -110,3 +110,9 @@ https://nakamotoinstitute.org/literature/
 Fat Protocols: https://www.usv.com/writing/2016/08/fat-protocols/
 
 On Medium-of-Exchange Token Valuations: https://vitalik.ca/general/2017/10/17/moe.html
+
+
+
+# OPSEC
+Bitcoin Hardware Wallets: https://www.lopp.net/bitcoin-information/security.html
+Laser fault injection: https://donjon.ledger.com/coldcard-pin-code/
