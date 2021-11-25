@@ -1,4 +1,4 @@
-##General research links:
+# General research links:
 
 https://www.paradigm.xyz/writing/
 
@@ -9,7 +9,7 @@ https://nansen.ai
 https://messari.io
 
 
-##Specific Reports:
+# Specific Reports:
 Layer-1 Platforms, A Framework for Comparison: https://www.tbstat.com/wp/uploads/2021/08/20210811_Layer1Platforms_TheBlockResearch.pdf
 
 Crypto Theses for 2021: https://messari.io/pdf/messari-report-crypto-theses-for-2021.pdf
@@ -18,17 +18,17 @@ Rollups: https://www.mechanism.capital/rollups-introduction/
 
 
 
-##Quantitative:
+# Quantitative:
 Dune.xyz
 CryptoQuant.com
 Glassnode.com
 
 
-##Newsletters
+# Newsletters
 https://newsletter.banklesshq.com/
 
 
-Investment theses:
+# Investment theses:
 SinoGlobal: https://github.com/sinoglobalcap/investment-theses/tree/main/english
 
 
@@ -36,7 +36,7 @@ Twitter accounts:
 
 https://www.metarational.net/lens/crypto_journalists
 
-##Basics 
+# Basics 
 Blockchain Explorer
 Bitcoin: https://bitinfocharts.com/bitcoin/explorer/
 https://www.blockchain.com/explorer?utm_campaign=expnav_explorer
@@ -72,7 +72,7 @@ and https://community.santiment.net/t/santiment-dashboards-metrics-overview/905
 
 Block trades for legged structures
 https://www.paradigm.co/
-##Options data: https://skew.com/
+# Options data: https://skew.com/
 
 
   
