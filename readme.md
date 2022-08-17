@@ -125,16 +125,29 @@ Block trades for legged structures
 https://www.paradigm.co/
 
 Data feed through API and nothing more:
-   Anyblock Analytics, Bitquery, BlockCypher, Coin Metrics, Crypto APIs
+   Anyblock Analytics, 
+   
+   Bitquery, 
+   
+   BlockCypher, 
+   
+   Coin Metrics,
+   
+   Crypto APIs
    
 SQL Queries/analytics DEFI
+
 Dune Analytics, Flipside Crypto
+
 MEV: https://eigenphi.io/
 
 # Options data: 
 https://skew.com/
+
 https://pro.gvol.io
+
 https://app.laevitas.ch/
+
 https://www.delta.exchange/data-analytics/d/ZJ2kOAwMz/options-analytics
 
   
