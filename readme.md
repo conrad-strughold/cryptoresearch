@@ -129,10 +129,12 @@ Data feed through API and nothing more:
    
 SQL Queries/analytics DEFI
 Dune Analytics, Flipside Crypto
+MEV: https://eigenphi.io/
 
 # Options data: 
 https://skew.com/
-
+https://pro.gvol.io
+https://app.laevitas.ch/
 https://www.delta.exchange/data-analytics/d/ZJ2kOAwMz/options-analytics
 
   
